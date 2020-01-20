@@ -1,0 +1,946 @@
+[05-Oct-2017 08:15:26 UTC] PHP Warning:  mysqli::prepare(): (21S01/1136): Column count doesn't match value count at row 1 in /home/qiffqatar2017/public_html/Save_Player.php on line 135
+[05-Oct-2017 18:21:51 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/qiffqatar2017/public_html/Save_Player.php on line 123
+[07-Oct-2017 15:18:03 UTC] PHP Warning:  mysqli::query(): (42S22/1054): Unknown column 'admin' in 'where clause' in /home/qiffqatar2017/public_html/QIFF.php on line 199
+[07-Oct-2017 15:18:03 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/qiffqatar2017/public_html/QIFF.php on line 199
+[07-Oct-2017 15:18:09 UTC] PHP Warning:  mysqli::query(): (42S22/1054): Unknown column 'admin' in 'where clause' in /home/qiffqatar2017/public_html/QIFF.php on line 199
+[07-Oct-2017 15:18:09 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/qiffqatar2017/public_html/QIFF.php on line 199
+[07-Oct-2017 15:18:11 UTC] PHP Warning:  mysqli::query(): (42S22/1054): Unknown column 'admin' in 'where clause' in /home/qiffqatar2017/public_html/QIFF.php on line 199
+[07-Oct-2017 15:18:11 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/qiffqatar2017/public_html/QIFF.php on line 199
+[07-Oct-2017 15:18:12 UTC] PHP Warning:  mysqli::query(): (42S22/1054): Unknown column 'admin' in 'where clause' in /home/qiffqatar2017/public_html/QIFF.php on line 199
+[07-Oct-2017 15:18:12 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/qiffqatar2017/public_html/QIFF.php on line 199
+[07-Oct-2017 15:41:44 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[07-Oct-2017 15:41:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[07-Oct-2017 15:47:17 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[07-Oct-2017 15:47:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[07-Oct-2017 16:18:09 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[07-Oct-2017 16:18:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[07-Oct-2017 16:58:01 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[07-Oct-2017 16:58:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[07-Oct-2017 17:10:08 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[07-Oct-2017 17:10:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[08-Oct-2017 03:55:59 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[08-Oct-2017 03:55:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[08-Oct-2017 14:15:32 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[08-Oct-2017 14:15:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[08-Oct-2017 14:37:26 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[08-Oct-2017 14:37:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[08-Oct-2017 14:37:52 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[08-Oct-2017 14:37:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[08-Oct-2017 15:29:44 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[08-Oct-2017 15:29:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[08-Oct-2017 15:37:00 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[08-Oct-2017 15:37:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[08-Oct-2017 18:08:41 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[08-Oct-2017 18:08:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 07:01:43 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 07:01:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:14:23 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:14:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:14:58 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:14:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:21:47 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:21:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:23:24 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:23:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:24:12 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:24:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:25:33 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:25:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:29:02 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:29:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:30:29 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:30:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:33:28 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:33:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:36:00 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:36:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:39:03 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/qiffqatar2017/public_html/Save_Player.php on line 123
+[09-Oct-2017 12:42:38 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:42:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:43:50 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:43:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:49:40 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:49:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:53:17 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:53:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:55:42 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:55:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 12:58:30 UTC] PHP Notice:  Undefined variable: image in /home/qiffqatar2017/public_html/Save_Player.php on line 135
+[09-Oct-2017 13:02:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderForm() in /home/qiffqatar2017/public_html/Save_Player.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/qiffqatar2017/public_html/Save_Player.php on line 171
+[09-Oct-2017 13:11:22 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 13:11:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 13:13:54 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 13:13:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 13:14:30 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 13:14:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 13:25:35 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 13:25:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 13:34:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderForm() in /home/qiffqatar2017/public_html/Save_Team.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/qiffqatar2017/public_html/Save_Team.php on line 88
+[09-Oct-2017 13:36:36 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 13:36:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 13:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderForm() in /home/qiffqatar2017/public_html/Save_Player.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/qiffqatar2017/public_html/Save_Player.php on line 171
+[09-Oct-2017 13:38:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderForm() in /home/qiffqatar2017/public_html/Save_Player.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/qiffqatar2017/public_html/Save_Player.php on line 171
+[09-Oct-2017 13:38:26 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 13:38:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 13:46:00 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 13:46:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 14:08:18 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 14:08:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 14:21:45 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 14:21:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 16:36:23 UTC] PHP Warning:  mysqli::prepare(): (21S01/1136): Column count doesn't match value count at row 1 in /home/qiffqatar2017/public_html/Save_Player.php on line 135
+[09-Oct-2017 18:29:32 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 18:29:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 18:31:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderForm() in /home/qiffqatar2017/public_html/Save_Player.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/qiffqatar2017/public_html/Save_Player.php on line 222
+[09-Oct-2017 18:31:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderForm() in /home/qiffqatar2017/public_html/Save_Player.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/qiffqatar2017/public_html/Save_Player.php on line 222
+[09-Oct-2017 20:00:14 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 20:00:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 20:26:31 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[09-Oct-2017 20:26:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 01:31:47 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 01:31:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 01:44:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderForm() in /home/qiffqatar2017/public_html/Save_Player.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/qiffqatar2017/public_html/Save_Player.php on line 222
+[10-Oct-2017 01:45:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderForm() in /home/qiffqatar2017/public_html/Save_Player.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/qiffqatar2017/public_html/Save_Player.php on line 222
+[10-Oct-2017 01:46:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderForm() in /home/qiffqatar2017/public_html/Save_Player.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/qiffqatar2017/public_html/Save_Player.php on line 222
+[10-Oct-2017 03:26:47 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 03:26:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 03:36:49 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 03:36:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 05:00:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderForm() in /home/qiffqatar2017/public_html/Save_Player.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/qiffqatar2017/public_html/Save_Player.php on line 222
+[10-Oct-2017 05:01:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderForm() in /home/qiffqatar2017/public_html/Save_Player.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/qiffqatar2017/public_html/Save_Player.php on line 222
+[10-Oct-2017 05:17:24 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 05:17:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 05:28:01 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 05:28:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 05:28:19 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 05:28:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 06:05:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderForm() in /home/qiffqatar2017/public_html/Save_Player.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/qiffqatar2017/public_html/Save_Player.php on line 222
+[10-Oct-2017 06:06:15 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 06:06:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 07:10:14 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 07:10:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 11:24:48 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 11:24:48 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 11:31:04 Asia/Qatar] PHP Warning:  mysqli::prepare(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/qiffqatar2017/public_html/Save_Player.php on line 186
+[10-Oct-2017 12:46:24 Asia/Qatar] PHP Fatal error:  Uncaught Error: Call to undefined function renderForm() in /home/qiffqatar2017/public_html/Save_Player.php:225
+Stack trace:
+#0 {main}
+  thrown in /home/qiffqatar2017/public_html/Save_Player.php on line 225
+[10-Oct-2017 12:47:41 Asia/Qatar] PHP Fatal error:  Uncaught Error: Call to undefined function renderForm() in /home/qiffqatar2017/public_html/Save_Player.php:225
+Stack trace:
+#0 {main}
+  thrown in /home/qiffqatar2017/public_html/Save_Player.php on line 225
+[10-Oct-2017 12:48:32 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 12:48:32 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 15:03:01 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 15:03:01 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 15:39:20 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 15:39:20 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 16:20:36 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 16:20:36 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 16:20:38 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 16:20:38 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 16:30:14 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 16:30:14 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 17:50:35 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 17:50:35 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 17:55:59 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 17:55:59 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 18:02:54 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 18:02:54 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 18:03:01 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 18:03:01 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 18:05:51 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 18:05:51 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 21:22:13 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 21:22:13 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 21:35:02 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 21:35:02 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[11-Oct-2017 00:48:08 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 208
+[11-Oct-2017 00:48:08 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 208
+[11-Oct-2017 00:48:08 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[11-Oct-2017 00:48:08 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 144
+[11-Oct-2017 00:48:18 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 00:50:07 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 208
+[11-Oct-2017 00:50:07 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[11-Oct-2017 00:50:07 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 144
+[11-Oct-2017 00:50:11 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 00:50:13 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 00:54:35 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 208
+[11-Oct-2017 00:54:35 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[11-Oct-2017 00:54:35 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 144
+[11-Oct-2017 00:55:24 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 208
+[11-Oct-2017 00:55:24 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[11-Oct-2017 00:55:24 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 144
+[11-Oct-2017 00:55:36 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 208
+[11-Oct-2017 00:55:36 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[11-Oct-2017 00:55:36 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 144
+[11-Oct-2017 00:55:47 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 208
+[11-Oct-2017 00:55:48 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[11-Oct-2017 00:55:48 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 144
+[11-Oct-2017 00:57:49 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 208
+[11-Oct-2017 00:57:49 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[11-Oct-2017 00:57:49 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 144
+[11-Oct-2017 00:57:53 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 00:57:55 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 01:00:02 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 208
+[11-Oct-2017 01:00:02 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[11-Oct-2017 01:00:02 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 144
+[11-Oct-2017 01:05:56 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 01:06:00 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 01:06:02 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 01:06:04 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 01:07:53 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 01:07:58 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 01:08:01 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 01:08:03 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 01:08:05 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 01:08:07 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 216
+[11-Oct-2017 01:11:57 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 208
+[11-Oct-2017 01:11:57 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[11-Oct-2017 01:11:57 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 144
+[11-Oct-2017 01:14:36 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 208
+[11-Oct-2017 01:14:36 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[11-Oct-2017 01:14:36 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 144
+[11-Oct-2017 01:17:16 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 208
+[11-Oct-2017 01:17:16 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[11-Oct-2017 01:17:16 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 146
+[11-Oct-2017 01:24:14 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 208
+[11-Oct-2017 01:24:14 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[11-Oct-2017 01:24:14 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 144
+[11-Oct-2017 01:25:58 Asia/Qatar] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/qiffqatar2017/public_html/QIFF.php:1) in /home/qiffqatar2017/public_html/QIFF.php on line 207
+[10-Oct-2017 22:56:56 UTC] PHP Warning:  require_once(session.php): failed to open stream: No such file or directory in /home/qiffqatar2017/public_html/Home.php on line 3
+[10-Oct-2017 22:56:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'session.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/qiffqatar2017/public_html/Home.php on line 3
+[11-Oct-2017 02:25:18 Asia/Qatar] PHP Warning:  mysqli::query(): (42S02/1146): Table 'qiff.Admin' doesn't exist in /home/qiffqatar2017/public_html/Team.php on line 172
+[11-Oct-2017 02:25:18 Asia/Qatar] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/qiffqatar2017/public_html/Team.php on line 172
+[11-Oct-2017 02:25:32 Asia/Qatar] PHP Warning:  mysqli::query(): (42S02/1146): Table 'qiff.Admin' doesn't exist in /home/qiffqatar2017/public_html/Team.php on line 172
+[11-Oct-2017 02:25:32 Asia/Qatar] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/qiffqatar2017/public_html/Team.php on line 172
+[11-Oct-2017 02:27:20 Asia/Qatar] PHP Warning:  mysqli::query(): (42S02/1146): Table 'qiff.Admin' doesn't exist in /home/qiffqatar2017/public_html/Team.php on line 172
+[11-Oct-2017 02:27:20 Asia/Qatar] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/qiffqatar2017/public_html/Team.php on line 172
+[11-Oct-2017 02:29:29 Asia/Qatar] PHP Warning:  mysqli::query(): (42S02/1146): Table 'qiff.Admin' doesn't exist in /home/qiffqatar2017/public_html/Team.php on line 172
+[11-Oct-2017 02:29:29 Asia/Qatar] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/qiffqatar2017/public_html/Team.php on line 172
+[11-Oct-2017 02:29:32 Asia/Qatar] PHP Warning:  mysqli::query(): (42S02/1146): Table 'qiff.Admin' doesn't exist in /home/qiffqatar2017/public_html/Team.php on line 172
+[11-Oct-2017 02:29:32 Asia/Qatar] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/qiffqatar2017/public_html/Team.php on line 172
+[11-Oct-2017 02:30:48 Asia/Qatar] PHP Warning:  mysqli::query(): (42S02/1146): Table 'qiff.Admin' doesn't exist in /home/qiffqatar2017/public_html/Team.php on line 173
+[11-Oct-2017 02:30:48 Asia/Qatar] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/qiffqatar2017/public_html/Team.php on line 173
+[11-Oct-2017 02:30:56 Asia/Qatar] PHP Warning:  mysqli::query(): (42S02/1146): Table 'qiff.Admin' doesn't exist in /home/qiffqatar2017/public_html/Team.php on line 173
+[11-Oct-2017 02:30:56 Asia/Qatar] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/qiffqatar2017/public_html/Team.php on line 173
+[11-Oct-2017 02:51:03 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[11-Oct-2017 02:51:03 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[11-Oct-2017 02:51:03 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[11-Oct-2017 02:53:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[11-Oct-2017 02:53:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[11-Oct-2017 02:53:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[11-Oct-2017 11:03:21 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[11-Oct-2017 11:03:21 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[11-Oct-2017 11:21:57 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[11-Oct-2017 11:21:57 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[11-Oct-2017 11:21:57 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[11-Oct-2017 18:09:47 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[11-Oct-2017 18:09:47 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[11-Oct-2017 18:24:57 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[11-Oct-2017 18:24:57 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[11-Oct-2017 18:41:31 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[11-Oct-2017 18:41:31 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[11-Oct-2017 18:44:48 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player.php on line 159
+[11-Oct-2017 18:44:57 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player.php on line 159
+[11-Oct-2017 18:51:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[11-Oct-2017 18:51:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[11-Oct-2017 18:51:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[11-Oct-2017 18:55:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[11-Oct-2017 18:55:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[11-Oct-2017 18:55:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[11-Oct-2017 19:04:43 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[11-Oct-2017 19:04:43 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[11-Oct-2017 19:04:43 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[11-Oct-2017 19:04:51 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[11-Oct-2017 19:04:51 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[11-Oct-2017 19:04:51 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 09:18:14 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[12-Oct-2017 09:18:14 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[12-Oct-2017 12:13:24 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 12:13:24 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 12:13:24 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 12:42:28 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 12:42:28 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 12:42:28 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 13:03:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 13:03:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 13:03:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 13:19:14 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 13:19:14 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 13:19:14 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 13:46:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 13:46:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 13:46:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 13:58:56 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 13:58:56 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 13:58:56 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 14:04:04 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 14:04:04 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 14:04:04 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 14:09:57 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 14:09:57 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 14:09:57 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 14:16:56 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 14:16:56 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 14:16:56 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 14:31:15 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 14:31:15 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 14:31:15 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 19:17:17 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[12-Oct-2017 19:17:17 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[12-Oct-2017 19:17:17 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[12-Oct-2017 19:18:13 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[12-Oct-2017 19:18:13 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[12-Oct-2017 21:44:27 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 21:44:27 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 21:44:27 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 21:53:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 21:53:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 21:53:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 21:58:45 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 21:58:45 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 21:58:45 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 22:02:55 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 22:02:55 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 22:02:55 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 22:07:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 22:07:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 22:07:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 22:19:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 22:19:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 22:19:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 22:24:07 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 22:24:07 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 22:24:07 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 22:28:26 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 22:28:26 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 22:28:26 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 22:32:09 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 22:32:09 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 22:32:09 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 22:35:15 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 22:35:15 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 22:35:15 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[12-Oct-2017 22:48:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[12-Oct-2017 22:48:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[12-Oct-2017 22:48:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[13-Oct-2017 14:13:22 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[13-Oct-2017 14:13:22 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[13-Oct-2017 14:19:20 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[13-Oct-2017 14:19:20 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[13-Oct-2017 14:19:20 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[13-Oct-2017 14:26:52 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[13-Oct-2017 14:26:52 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[13-Oct-2017 14:26:52 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[13-Oct-2017 15:23:59 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player.php on line 159
+[13-Oct-2017 15:28:59 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[13-Oct-2017 15:28:59 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[13-Oct-2017 15:28:59 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[13-Oct-2017 15:33:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[13-Oct-2017 15:33:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[13-Oct-2017 15:33:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[13-Oct-2017 16:49:31 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player.php on line 159
+[13-Oct-2017 16:56:46 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[13-Oct-2017 16:56:46 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[13-Oct-2017 16:56:46 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[13-Oct-2017 17:39:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[13-Oct-2017 17:39:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[13-Oct-2017 17:39:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[14-Oct-2017 09:29:01 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[14-Oct-2017 09:29:01 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[14-Oct-2017 09:36:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 09:36:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 09:36:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 10:01:32 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[14-Oct-2017 10:01:32 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[14-Oct-2017 10:01:32 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[14-Oct-2017 10:04:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 10:04:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 10:04:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 10:14:03 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[14-Oct-2017 10:14:03 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[14-Oct-2017 10:21:28 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[14-Oct-2017 10:21:28 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[14-Oct-2017 10:21:28 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[14-Oct-2017 10:25:06 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 10:25:06 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 10:25:06 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 10:28:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[14-Oct-2017 10:28:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[14-Oct-2017 10:28:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[14-Oct-2017 10:37:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[14-Oct-2017 10:37:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[14-Oct-2017 10:37:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[14-Oct-2017 10:43:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[14-Oct-2017 10:43:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[14-Oct-2017 10:43:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[14-Oct-2017 10:47:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 10:47:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 10:47:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 10:57:50 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 10:57:50 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 10:57:50 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 11:16:41 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[14-Oct-2017 11:16:41 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[14-Oct-2017 11:16:41 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[14-Oct-2017 11:39:22 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player_Normal.php on line 159
+[14-Oct-2017 11:41:56 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[14-Oct-2017 11:41:56 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[14-Oct-2017 11:41:56 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[14-Oct-2017 11:43:35 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 11:43:35 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 11:43:35 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 11:54:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 11:54:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 11:54:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 12:03:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 12:03:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 12:03:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 12:24:55 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 12:24:55 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 12:24:55 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 12:43:01 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[14-Oct-2017 12:43:01 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[14-Oct-2017 13:09:46 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[14-Oct-2017 13:09:46 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[14-Oct-2017 13:09:46 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[14-Oct-2017 13:19:12 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[14-Oct-2017 13:19:12 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[14-Oct-2017 14:02:17 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 14:02:17 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 14:02:17 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 14:04:28 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/View_Team.php on line 164
+[14-Oct-2017 14:05:31 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 14:05:31 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 14:05:31 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 14:09:17 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[14-Oct-2017 14:09:17 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[14-Oct-2017 14:09:17 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[14-Oct-2017 15:52:50 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[14-Oct-2017 15:52:50 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[14-Oct-2017 15:59:50 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[14-Oct-2017 15:59:50 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[14-Oct-2017 15:59:50 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[14-Oct-2017 16:04:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[14-Oct-2017 16:04:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[14-Oct-2017 16:04:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[14-Oct-2017 16:13:17 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player_Normal.php on line 159
+[14-Oct-2017 16:20:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 16:20:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 16:20:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 16:30:28 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 16:30:28 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 16:30:28 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 16:35:29 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 16:35:29 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 16:35:29 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 16:43:27 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 16:43:27 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 16:43:27 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 17:07:04 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[14-Oct-2017 17:07:04 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[14-Oct-2017 17:14:46 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 17:14:46 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 17:14:46 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 17:53:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 17:53:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 17:53:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 18:16:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 18:16:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 18:16:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 18:24:21 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 18:24:21 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 18:24:21 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 18:50:59 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 18:50:59 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 18:50:59 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 18:56:45 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 18:56:45 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 18:56:45 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 19:04:26 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 19:04:26 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 19:04:26 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 19:15:43 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 19:15:43 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 19:15:43 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 19:28:59 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 19:28:59 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 19:28:59 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 19:42:43 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 19:42:43 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 19:42:43 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 19:47:29 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 19:47:29 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 19:47:29 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 20:15:24 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 20:15:24 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 20:15:24 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 20:59:27 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player_Normal.php on line 159
+[14-Oct-2017 21:28:01 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player_Normal.php on line 159
+[14-Oct-2017 22:01:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 22:01:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 22:01:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 22:06:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 22:06:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 22:06:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 22:06:25 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 22:06:25 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 22:06:25 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 22:11:29 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[14-Oct-2017 22:11:29 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[14-Oct-2017 22:11:29 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 22:11:29 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 22:11:29 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 22:11:31 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[14-Oct-2017 22:11:31 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[14-Oct-2017 22:18:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 22:18:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 22:18:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 22:24:24 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 22:24:24 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 22:24:24 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[14-Oct-2017 22:30:27 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[14-Oct-2017 22:30:27 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[14-Oct-2017 22:30:27 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 00:11:38 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 00:11:38 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 00:11:38 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 00:11:42 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[15-Oct-2017 00:11:42 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[15-Oct-2017 00:11:50 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player.php on line 159
+[15-Oct-2017 00:11:53 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[15-Oct-2017 00:11:53 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[15-Oct-2017 00:34:45 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player.php on line 159
+[15-Oct-2017 08:02:14 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 08:02:14 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 08:02:14 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 08:07:18 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 08:07:18 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 08:07:18 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 08:07:23 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player_Normal.php on line 159
+[15-Oct-2017 08:36:12 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 08:36:12 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 08:36:12 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 08:44:19 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 08:44:19 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 08:44:19 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 08:48:55 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 08:48:55 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 08:48:55 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 09:05:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 09:05:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 09:05:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 09:10:46 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 09:10:46 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 09:10:46 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 09:13:38 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 09:13:38 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 09:13:38 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 09:19:31 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 09:19:31 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 09:19:31 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 09:43:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 09:43:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 09:43:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 10:18:22 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 10:18:22 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 10:18:22 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 10:21:32 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 10:21:32 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 10:21:32 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 10:28:47 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 10:28:47 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 10:28:47 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 11:32:18 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player.php on line 159
+[15-Oct-2017 12:48:22 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 12:48:22 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 12:48:22 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 13:21:45 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 13:21:45 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 13:21:45 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 13:24:48 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 13:24:48 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 13:24:48 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 13:35:41 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 13:35:41 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 13:35:41 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 13:41:52 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 13:41:52 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 13:41:52 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 13:47:09 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 13:47:09 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 13:47:09 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 13:50:42 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 13:50:42 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 13:50:42 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 13:53:11 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 13:53:11 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 13:53:11 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 13:55:12 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 13:55:12 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 13:55:12 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 13:55:49 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 13:55:49 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 13:55:49 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 14:02:41 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 14:02:41 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 14:02:41 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 14:12:12 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 14:12:12 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 14:12:12 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 15:09:34 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player_Normal.php on line 159
+[15-Oct-2017 15:44:39 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player_Normal.php on line 159
+[15-Oct-2017 15:47:18 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 15:47:18 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 15:47:18 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 15:52:08 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 15:52:08 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 15:52:08 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 16:10:40 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[15-Oct-2017 16:10:40 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[15-Oct-2017 16:43:12 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[15-Oct-2017 16:43:12 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[15-Oct-2017 16:47:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 16:47:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 16:47:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 16:57:14 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 16:57:14 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 16:57:14 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 16:58:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 16:58:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 16:58:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 17:02:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 17:02:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 17:02:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 17:03:56 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player_Normal.php on line 159
+[15-Oct-2017 17:04:20 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player_Normal.php on line 159
+[15-Oct-2017 17:04:27 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 17:04:27 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 17:04:27 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 17:06:07 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 17:06:07 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 17:06:07 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 17:10:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 17:10:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 17:10:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 17:28:29 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 17:28:29 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 17:28:29 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 17:58:50 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 17:58:50 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 17:58:50 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 18:03:28 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 18:03:28 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 18:03:28 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 18:06:33 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 18:06:33 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 18:06:33 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 18:12:11 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 18:12:11 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 18:12:11 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 18:16:29 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[15-Oct-2017 18:16:29 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[15-Oct-2017 18:17:18 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 18:17:18 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 18:17:18 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 18:22:24 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 18:22:24 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 18:22:24 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 18:28:11 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 18:28:11 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 18:28:11 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 18:28:32 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 18:28:32 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 18:28:32 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 18:47:50 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 18:47:50 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 18:47:50 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 19:03:10 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 19:03:10 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 19:03:10 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 19:08:06 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 19:08:06 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 19:08:06 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 19:13:53 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 19:13:53 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 19:13:53 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 19:19:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 19:19:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 19:19:58 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 19:22:05 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 19:22:05 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 19:22:05 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 19:24:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 19:24:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 19:24:36 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 19:47:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 19:47:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 19:47:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 19:49:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 19:49:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 19:49:02 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 19:50:35 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 19:50:35 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 19:50:35 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 19:53:05 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 19:53:05 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 19:53:05 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 19:55:12 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 19:55:12 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 19:55:12 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 19:56:00 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 19:56:00 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 19:56:00 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 19:58:52 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 19:58:52 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 19:58:52 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[15-Oct-2017 20:07:04 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 20:07:04 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 20:07:04 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 20:09:17 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[15-Oct-2017 20:09:17 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[15-Oct-2017 20:09:17 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[15-Oct-2017 20:47:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[15-Oct-2017 20:47:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[15-Oct-2017 20:47:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[16-Oct-2017 01:08:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[16-Oct-2017 01:08:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[16-Oct-2017 01:08:39 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[16-Oct-2017 01:08:50 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player_Normal.php on line 159
+[16-Oct-2017 08:07:21 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[16-Oct-2017 08:07:21 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[16-Oct-2017 08:14:55 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[16-Oct-2017 08:14:55 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[16-Oct-2017 08:31:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[16-Oct-2017 08:31:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[16-Oct-2017 08:31:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[16-Oct-2017 09:13:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[16-Oct-2017 09:13:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[16-Oct-2017 09:13:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[16-Oct-2017 09:13:12 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player_Normal.php on line 159
+[16-Oct-2017 09:29:47 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[16-Oct-2017 09:29:47 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[16-Oct-2017 09:38:00 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[16-Oct-2017 09:38:00 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[16-Oct-2017 09:38:00 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[16-Oct-2017 09:53:38 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[16-Oct-2017 09:53:38 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[16-Oct-2017 09:55:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[16-Oct-2017 09:55:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[16-Oct-2017 09:55:54 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[16-Oct-2017 09:57:43 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[16-Oct-2017 09:57:43 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[16-Oct-2017 10:08:57 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[16-Oct-2017 10:08:57 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[16-Oct-2017 10:08:57 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[16-Oct-2017 10:36:18 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[16-Oct-2017 10:36:18 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[16-Oct-2017 10:36:18 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[16-Oct-2017 10:45:10 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 94
+[16-Oct-2017 10:45:10 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 145
+[16-Oct-2017 12:18:47 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[16-Oct-2017 12:18:47 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[16-Oct-2017 12:18:47 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[16-Oct-2017 12:21:20 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player.php on line 159
+[16-Oct-2017 12:39:43 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[16-Oct-2017 12:39:43 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[16-Oct-2017 12:39:43 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[16-Oct-2017 13:05:39 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player_Normal.php on line 159
+[16-Oct-2017 13:17:38 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[16-Oct-2017 13:17:38 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[16-Oct-2017 13:17:38 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[16-Oct-2017 17:33:15 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[16-Oct-2017 17:33:15 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[16-Oct-2017 17:33:15 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[16-Oct-2017 20:26:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[16-Oct-2017 20:26:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[16-Oct-2017 20:26:23 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[16-Oct-2017 20:35:26 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[16-Oct-2017 20:35:26 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[16-Oct-2017 20:35:26 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[16-Oct-2017 20:46:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 42
+[16-Oct-2017 20:46:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 72
+[16-Oct-2017 20:46:40 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player_Normal.php on line 92
+[16-Oct-2017 22:49:37 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 42
+[16-Oct-2017 22:49:37 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 72
+[16-Oct-2017 22:49:37 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 92
+[17-Oct-2017 05:34:44 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 61
+[17-Oct-2017 05:34:44 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 91
+[17-Oct-2017 05:34:44 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 111
+[17-Oct-2017 07:32:09 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 61
+[17-Oct-2017 07:32:09 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 91
+[17-Oct-2017 07:32:09 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 111
+[17-Oct-2017 07:39:49 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 61
+[17-Oct-2017 07:39:49 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 91
+[17-Oct-2017 07:39:49 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 111
+[17-Oct-2017 07:52:14 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 61
+[17-Oct-2017 07:52:14 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 91
+[17-Oct-2017 07:52:14 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 111
+[17-Oct-2017 08:01:45 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 61
+[17-Oct-2017 08:01:45 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 91
+[17-Oct-2017 08:01:45 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 111
+[17-Oct-2017 08:29:09 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 61
+[17-Oct-2017 08:29:09 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 91
+[17-Oct-2017 08:29:09 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 111
+[17-Oct-2017 17:53:15 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 92
+[17-Oct-2017 17:53:15 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 135
+[17-Oct-2017 18:16:15 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 61
+[17-Oct-2017 18:16:15 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 91
+[17-Oct-2017 18:16:15 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 111
+[17-Oct-2017 18:19:33 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 61
+[17-Oct-2017 18:19:33 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 91
+[17-Oct-2017 18:19:33 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 111
+[18-Oct-2017 05:45:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 61
+[18-Oct-2017 05:45:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 91
+[18-Oct-2017 05:45:01 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 111
+[18-Oct-2017 10:50:48 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 61
+[18-Oct-2017 10:50:48 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 91
+[18-Oct-2017 10:50:48 Asia/Qatar] PHP Notice:  Undefined variable: target_dir in /home/qiffqatar2017/public_html/Save_Player.php on line 111
+[21-Oct-2017 12:01:58 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[21-Oct-2017 12:01:58 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[21-Oct-2017 13:04:32 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[21-Oct-2017 13:04:32 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[24-Oct-2017 08:33:35 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[24-Oct-2017 08:33:35 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[24-Oct-2017 12:43:37 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[24-Oct-2017 12:43:37 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[24-Oct-2017 12:46:01 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[24-Oct-2017 12:46:01 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[25-Oct-2017 10:29:28 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[25-Oct-2017 10:29:28 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[28-Oct-2017 17:00:41 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[28-Oct-2017 17:00:41 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[28-Oct-2017 18:53:47 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[28-Oct-2017 18:53:47 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[29-Oct-2017 11:21:15 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[29-Oct-2017 11:21:15 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[29-Oct-2017 12:49:21 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[29-Oct-2017 12:49:21 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[29-Oct-2017 18:13:55 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[29-Oct-2017 18:13:55 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[30-Oct-2017 16:28:07 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[30-Oct-2017 16:28:07 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[30-Oct-2017 16:39:04 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[30-Oct-2017 16:39:04 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[31-Oct-2017 09:24:21 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[31-Oct-2017 09:24:21 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[31-Oct-2017 16:50:35 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[31-Oct-2017 16:50:35 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[31-Oct-2017 20:01:34 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[31-Oct-2017 20:01:34 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[31-Oct-2017 20:56:39 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[31-Oct-2017 20:56:39 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[01-Nov-2017 11:28:27 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[01-Nov-2017 11:28:27 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[02-Nov-2017 10:55:49 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[02-Nov-2017 10:55:49 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[02-Nov-2017 11:37:24 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[02-Nov-2017 11:37:24 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[04-Nov-2017 16:28:11 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[04-Nov-2017 16:28:11 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[04-Nov-2017 16:48:15 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[04-Nov-2017 16:48:15 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[04-Nov-2017 16:51:49 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[04-Nov-2017 16:51:49 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[04-Nov-2017 17:05:23 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[04-Nov-2017 17:05:23 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[04-Nov-2017 17:15:50 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[04-Nov-2017 17:15:50 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[04-Nov-2017 20:45:42 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[04-Nov-2017 20:45:42 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[05-Nov-2017 10:39:09 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[05-Nov-2017 10:39:09 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[06-Nov-2017 17:12:15 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[06-Nov-2017 17:12:15 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[07-Nov-2017 09:20:39 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[07-Nov-2017 09:20:39 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[07-Nov-2017 09:29:31 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[07-Nov-2017 09:29:31 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[07-Nov-2017 13:09:08 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[07-Nov-2017 13:09:08 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[07-Nov-2017 16:45:15 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[07-Nov-2017 16:45:15 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[07-Nov-2017 16:48:45 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[07-Nov-2017 16:48:45 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[07-Nov-2017 19:48:48 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[07-Nov-2017 19:48:48 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[08-Nov-2017 09:14:26 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[08-Nov-2017 09:14:26 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[08-Nov-2017 09:42:27 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[08-Nov-2017 09:42:27 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[08-Nov-2017 09:47:15 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[08-Nov-2017 09:47:15 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[09-Nov-2017 17:07:17 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[09-Nov-2017 17:07:17 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[11-Nov-2017 16:25:17 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[11-Nov-2017 16:25:17 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[12-Nov-2017 20:53:29 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[12-Nov-2017 20:53:29 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[13-Nov-2017 09:03:36 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[13-Nov-2017 09:03:36 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[13-Nov-2017 21:35:55 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[13-Nov-2017 21:35:55 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[13-Nov-2017 22:01:14 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[13-Nov-2017 22:01:14 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[14-Nov-2017 10:50:08 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[14-Nov-2017 10:50:08 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[15-Nov-2017 10:04:33 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[15-Nov-2017 10:04:33 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[16-Nov-2017 08:51:25 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[16-Nov-2017 08:51:25 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[18-Nov-2017 10:45:04 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[18-Nov-2017 10:45:04 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[18-Nov-2017 11:37:52 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[18-Nov-2017 11:37:52 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[18-Nov-2017 11:41:19 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[18-Nov-2017 11:41:19 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[18-Nov-2017 13:06:46 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[18-Nov-2017 13:06:46 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[23-Nov-2017 06:21:29 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[23-Nov-2017 06:21:29 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[29-Nov-2017 16:32:18 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[29-Nov-2017 16:32:18 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[05-Jan-2018 16:13:10 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[05-Jan-2018 16:13:10 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[05-Jan-2018 16:13:12 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 93
+[05-Jan-2018 16:13:12 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Home.php on line 141
+[10-Jan-2018 15:06:45 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player_Normal.php on line 178
+[10-Jan-2018 15:06:45 Asia/Qatar] PHP Notice:  Undefined index: Team_Name in /home/qiffqatar2017/public_html/Player_Normal.php on line 178
